@@ -1,0 +1,1 @@
+{"routers":{"inventory":{"name":"inventory","version":"2025-08-07T05:39:56","disableAuth":false},"rentabox":{"name":"rentabox","version":"2025-08-07T08:59:37","disableAuth":false},"users":{"name":"users","version":"2025-08-07T07:46:18","disableAuth":false},"products":{"name":"products","version":"2025-08-07T07:43:52","disableAuth":false}}}
